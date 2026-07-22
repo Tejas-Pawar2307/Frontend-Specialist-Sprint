@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="/action.php">
+        <input type="text" placeholder="Username">
+        <input type="password" placeholder="Password">
+        <br>
+        <label for="101">
+            <input type="radio" value="class X" name="class" id="101">
+            Class X
+        </label>
+        <br>
+        <label for="102">
+            <input type="radio" value="class XI" name="class" id="102">
+            Class XI
+        </label>
+        <label for="math">
+            <input type="checkbox" value="math" name="subject" id="101">
+            Math
+        </label>
+        <label for="phy">
+            <input type="checkbox" value="phy" name="subject" id="102">
+            Physics
+        </label>
+        <label for="english">
+            <input type="checkbox" value="english" name="subject" id="103">
+            English
+        </label>
+        <label for="science">
+            <input type="checkbox" value="science" name="subject" id="104">
+            Science
+        </label>
+        <br>
+        <br>
+        <textarea name="feedback" id="101" placeholder="Please Give us Your Valuable Feedback">Feedback</textarea>
+    </form>
+    <footer>
+        <h5>Contact Us</h5>
+    </footer>
+</body>
+</html>
