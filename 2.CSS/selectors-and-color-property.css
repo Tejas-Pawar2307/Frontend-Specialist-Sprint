@@ -1,0 +1,35 @@
+*{
+    background-color:rgb(186, 244, 187);
+    
+}
+
+#name{
+    color : red
+}
+
+h1{
+    color : purple
+}
+button{
+    background-color: rgb(211, 0, 112);
+    color : rgb(11, 220, 0);
+}
+
+label{
+    background-color: orangered;
+    color : black
+}
+
+.Register{
+    background-color: rgb(0, 198, 26);
+    color :rgb(0, 0, 0)
+}
+
+.Form_color{
+    background-color: aqua;
+    color : red
+}
+
+p{
+    background-color: orangered;
+}
