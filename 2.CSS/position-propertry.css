@@ -1,0 +1,19 @@
+#box1 {
+    position: static;
+}
+
+#box2 {
+    position: relative;
+    top: 150px;
+    
+}
+
+#box3 {
+    position: absolute;
+    top: 20px;
+}
+
+#box4 {
+    position: fixed;
+    right: 50px;
+}
